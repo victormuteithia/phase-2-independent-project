@@ -1,3 +1,7 @@
+Project name: Books Library
+Project author: Victor Muteithia
+Project description: The app is a library for books whereby the user is able to add and delete books. It might not be 100% functional but I tried my best to add three CRUD operations--GET, POST, and DELETE. It also contains 4 components App.js, BooksList.js, About.js, and NewBookForm.js. App.js is the parent, while the others are its children. About gives a mission. BooksList.js supplies the cards, while NewBookForm.js renders a form that the user can enter details for a new book. As I said, the app is not 100% functional and I don't mind being helped to get it up and running, and probably add UPDATE.   
+Project instructions: You can 'git clone' it to your local repo. After that, run 'json-server --watch db.json --port 3001' to run the db.json file on your browser, and then run 'npm install && npm start' to view it in your browser.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
